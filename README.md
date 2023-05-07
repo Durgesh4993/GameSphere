@@ -66,9 +66,9 @@ Here you are creat a room for players where the meat with different players
 _Detail:_ Thiird step is hardest part of project acording to me. I have to find one random online user and transfer real -time data netween both of them . you all are familar with whatsapp when we are chatting with our friends under the hood whatsapp will transmit messege from one socket to anotner but when it comes to group chatting transmitting message from socket to sockot is not efficient so whatsapp creats a room it has a unique ID and inside that all socket will be there here messege transmit from socket to rom i am going to use this room's conapt to build this game 
 let's take an example user clicks on play we redirut into game main page where we give two options. 
 
-*play with stranger. 
+**play with stranger.** 
 
-*play with friends. 
+**play with friends.** 
 
 when users click on play with stranger button i will sand a room creat even from the frontend on the backend i will creat a room with a unique ID and join the user in that room to join another player in this room  i need room ID so i have to save room detail somewhere.I will save room ID in a array called room if another user clicks on that button first i will checj there any room available from that array if the room is available i will make this user to join the room is an issue here.
 
@@ -84,8 +84,9 @@ Be like lobby of game the Reference of designe page is given below:
  
  ______________________________________________________________________________________________________________________________________________________________
  
-## How to make a PR
+## How to make a PR in a Project
 
+If you are intrested to contribute in this project how to start contribute
 <!-- in detail -->
 
 1. Fork the repo.
@@ -94,14 +95,14 @@ Be like lobby of game the Reference of designe page is given below:
 To clone the repo to your local machine, run the following command in your terminal:
     
     ```bash
-    git clone https://github.com/<your-github-username>/Dino
+    git clone https://github.com/<your-github-username>/GameSphere
     ```
 
 3. Add a remote upstream to the original repo.
 To add a remote upstream, run the following command in your terminal:
     
     ```bash
-    git remote add upstream https://github/devloper-diganta/Dino
+    git remote add upstream https://github.com/Durgesh4993/GameSphere/
     ```
 
 4. Create a new branch.
