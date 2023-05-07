@@ -22,11 +22,19 @@ ________________________________________________________________________________
 
 # How to start to contribute in project step by step
 
+I have distribute this project into three main parts for contributers :
+| steps         | About         | Time  |
+| ------------- |:-------------:| -----:|
+| First step    | Creat a home page of a wrbsite | 10 - 15 days |
+| second step   | buit an game and add on the website  |  15 - 20 days |
+| Third Step    | Implementation for multipalyer & Rooms | 30 - 40 days |
+| Final step    | Debugging and basic change if needed | 10 - 15 days |
+
 ### Firts Step -
 
 Creat a landing page (Home Page) by using frontend development
 
-_Detail:_ In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.
+_Detail:_ The first phase of a project is the most straightforward because all that is required of the contributor is to copy our designs (this is especially important if their designs are better than our designs) and create a landing page (or home page), which serves as a direct conduit between the user's browser and our website. The initial phase of the project is crucial because if users don't feel at ease using our website, they may quit using it completely, which is negative for our website. All contributions would have been utterly useless if this happened. in order to improve the responsiveness and dynamic experience of our users.
 
 Refrence of designe:
                 
@@ -40,7 +48,7 @@ Refrence of designe:
 
 Add different types of game be like Snake, Ludo, Carrom, Bubbel shoot etc.
 
-_Detail:_ In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.
+_Detail:_ In a second step the developer just be need develop multiple game(be like Ludo, Carrom, Bubble shooter, snake games etc..) and list into the website and also create an special page for a particular game where all instruction are presnt how to play that game and also collect the users review and ther experience with our website if you want to be check out the reference of designe just copy the link and paste into browser and also if you have any other ideads related to designes please discuss with us.
 
 Also builds game main page Reference of designe page is given below:
                  
@@ -55,7 +63,7 @@ Also builds game main page Reference of designe page is given below:
 
 Here you are creat a room for players where the meat with different players
 
-_Detail:_ In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.
+_Detail:_ Thiird step is hardest part of project acording to me. I have to find one random online user and transfer real -time data netween both of them . you all are familar with whatsapp when we are chatting with our friends under the hood whatsapp will transmit messege from one socket to anotner but when it comes to group chatting transmitting message from socket to sockot 
 
 Be like lobby of game the Reference of designe page is given below:
                  
