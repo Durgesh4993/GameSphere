@@ -37,7 +37,7 @@ _Refrence of designe:_
 
 _Add different types of game be like Snake, Ludo, Carrom, Bubbel shoot etc._
 
-_Also builds game main page Reference page is given below:_
+_Also builds game main page Reference of designe page is given below:_
                  
                  https://snowflaketest.my.canva.site/gamesphere
                 
@@ -45,4 +45,8 @@ _Also builds game main page Reference page is given below:_
 
 ### Third Step - 
 
-_Here you are creat a room for 
+_Here you are creat a room for players where the meat with different players_
+
+_Be like lobby of game the Reference of designe page is given below:_
+                 
+                 https://snowflaketest.my.canva.site/gamesphere
