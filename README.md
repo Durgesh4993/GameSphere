@@ -84,7 +84,7 @@ Be like lobby of game the Reference of designe page is given below:
  
  ______________________________________________________________________________________________________________________________________________________________
  
-## How to make a PR in a Project
+# How to make a PR in a Project
 
 If you are intrested to contribute in this project how to start contribute
 <!-- in detail -->
