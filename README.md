@@ -67,6 +67,7 @@ _Detail:_ Thiird step is hardest part of project acording to me. I have to find 
 let's take an example user clicks on play we redirut into game main page where we give two options. 
 
 *play with stranger. 
+
 *play with friends. 
 
 when users click on play with stranger button i will sand a room creat even from the frontend on the backend i will creat a room with a unique ID and join the user in that room to join another player in this room  i need room ID so i have to save room detail somewhere.I will save room ID in a array called room if another user clicks on that button first i will checj there any room available from that array if the room is available i will make this user to join the room is an issue here.
@@ -81,3 +82,4 @@ Be like lobby of game the Reference of designe page is given below:
 
  **Note** - You are also free to talk if you have any batter idea
  
+ ______________________________________________________________________________________________________________________________________________________________
