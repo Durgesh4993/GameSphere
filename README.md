@@ -163,7 +163,7 @@ ________________________________________________________________________________
 <table align='center'>
 <tr>
     <td align="center">
-        <a href="https://github.com/developer-diganta">
+        <a href="https://www.linkedin.com/in/aman-singh-026141222/">
             <img src="https://media.licdn.com/dms/image/D4D03AQHLFMc05n4axw/profile-displayphoto-shrink_400_400/0/1680535398297?e=1689206400&v=beta&t=wNTaH-noSJARU_HF-FO60P-ipOMY6EcbjkpJnqe4HuM" width="100;" alt="Aman Kumar Singh"/>
             <br />
             <sub><b>Aman Kr. Singh</b></sub>
