@@ -20,3 +20,29 @@ ________________________________________________________________________________
 **Who are able to work with Us** - UI/UX Design, Front-end developer, Backend developer, *Know about WebSocket etc.. and also if you want to contribute in different fields we wellocm you 
 ______________________________________________________________________________________________________________________________________________________________
 
+# How to make this project
+
+### Firts Step -
+
+_Creat a landing page (Home Page) by using frontend development_
+
+_Refrence of designe:_
+                
+                https://snowflaketest.my.canva.site/gamesphere
+                
+ **Note** - You are also free to show you degines at (XYZ@gmail.com) currently email is not added
+ ***********************************************************************************************************************************************************
+                
+### Second Step - 
+
+_Add different types of game be like Snake, Ludo, Carrom, Bubbel shoot etc._
+
+_Also builds game main page Reference page is given below:_
+                 
+                 https://snowflaketest.my.canva.site/gamesphere
+                
+***********************************************************************************************************************************************************
+
+### Third Step - 
+
+_Here you are creat a room for 
