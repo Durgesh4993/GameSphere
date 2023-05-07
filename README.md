@@ -20,7 +20,7 @@ ________________________________________________________________________________
 **Who are able to work with Us** - UI/UX Design, Front-end developer, Backend developer, *Know about WebSocket etc.. and also if you want to contribute in different fields we wellocm you 
 ______________________________________________________________________________________________________________________________________________________________
 
-# How to make this project
+# How to start to contribute in project step by step
 
 ### Firts Step -
 
