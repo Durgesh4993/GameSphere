@@ -24,9 +24,9 @@ ________________________________________________________________________________
 
 ### Firts Step -
 
-_Creat a landing page (Home Page) by using frontend development_
+Creat a landing page (Home Page) by using frontend development
 
-_Refrence of designe:_
+Refrence of designe:
                 
                 https://snowflaketest.my.canva.site/gamesphere
                 
@@ -37,9 +37,9 @@ _Detail:_ In publishing and graphic design, Lorem ipsum is a placeholder text co
                 
 ### Second Step - 
 
-_Add different types of game be like Snake, Ludo, Carrom, Bubbel shoot etc._
+Add different types of game be like Snake, Ludo, Carrom, Bubbel shoot etc.
 
-_Also builds game main page Reference of designe page is given below:_
+Also builds game main page Reference of designe page is given below:
                  
                  https://snowflaketest.my.canva.site/gamesphere
                  
@@ -51,9 +51,9 @@ _Detail:_ In publishing and graphic design, Lorem ipsum is a placeholder text co
 
 ### Third Step - 
 
-_Here you are creat a room for players where the meat with different players_
+Here you are creat a room for players where the meat with different players
 
-_Be like lobby of game the Reference of designe page is given below:_
+Be like lobby of game the Reference of designe page is given below:
                  
                  https://snowflaketest.my.canva.site/gamesphere
                  
