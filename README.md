@@ -38,7 +38,7 @@ _Detail:_ The first phase of a project is the most straightforward because all t
 
 Refrence of designe:
                 
-                https://snowflaketest.my.canva.site/gamesphere
+https://snowflaketest.my.canva.site/gamesphere
                
                 
  **Note** - You are also free to show you degines at (XYZ@gmail.com) currently email is not added
@@ -52,7 +52,7 @@ _Detail:_ In a second step the developer just be need develop multiple game(be l
 
 Also builds game main page Reference of designe page is given below:
                  
-                 https://snowflaketest.my.canva.site/game-detail
+https://snowflaketest.my.canva.site/game-detail
                  
                  
  **Note** - You are also free to show you degines at (XYZ@gmail.com) currently email is not added
