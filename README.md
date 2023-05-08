@@ -72,13 +72,7 @@ let's take an example user clicks on play we redirut into game main page where w
 
 when users click on play with stranger button i will sand a room creat even from the frontend on the backend i will creat a room with a unique ID and join the user in that room to join another player in this room  i need room ID so i have to save room detail somewhere.I will save room ID in a array called room if another user clicks on that button first i will checj there any room available from that array if the room is available i will make this user to join the room is an issue here.
 
-I only ewent towi player to join ths room to fix this i will add avariable calledvaccent to check if the roon is avariable or not to have a track of player info like socket ID option ,option scora and option lock will savr data  in player object now i need to sand this detail to the frontend we rea sending a room gate even from the backend  i hope you undrestood what i said now talk to play with friend button , sharing a link i will take the room ID from that link and check if is there any room available with a given ID if there a room exit then i will check if its availableand vacant then user can join the else i will redirect him to the home page currently any user can join the room if"s awakend .To save this i will current a prive rooms for those who click on a play with the friend button . 
-
-
-Be like lobby of game the Reference of designe page is given below:
-                 
-                 https://snowflaketest.my.canva.site/gamesphere
-                 
+I only ewent towi player to join ths room to fix this i will add avariable calledvaccent to check if the roon is avariable or not to have a track of player info like socket ID option ,option scora and option lock will savr data  in player object now i need to sand this detail to the frontend we rea sending a room gate even from the backend  i hope you undrestood what i said now talk to play with friend button , sharing a link i will take the room ID from that link and check if is there any room available with a given ID if there a room exit then i will check if its availableand vacant then user can join the else i will redirect him to the home page currently any user can join the room if"s awakend .To save this i will current a prive rooms for those who click on a play with the friend button .                  
 
  **Note** - You are also free to talk if you have any batter idea
  
